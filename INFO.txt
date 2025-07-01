@@ -1,0 +1,8 @@
+Edwin Reyes Herrera
+3 B Infraestructura de redes digitales 
+
+*unpo de los integrantes creara la pagiuna principal sera un menu y debera contar con  cuatro botobnes con todo estilos 
+*el segundo las operaciones basicas en este caso las usma 
+* el tercero la resta y asi susesivamente 
+* uno de los integrantes hara la rama y y los demas lo compartiran para subirlo a git b
+*todo entorno grafica
